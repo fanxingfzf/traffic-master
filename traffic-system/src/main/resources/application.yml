@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: traffic-system
+    #指定服务名称
+  profiles:
+    active: dev
+    #测试环境

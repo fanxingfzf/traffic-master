@@ -1,0 +1,32 @@
+2022-06-15 17:43:25.777 [main] INFO  com.msb.system.TrafficSystemApplicationTests - Starting TrafficSystemApplicationTests on DESKTOP-847M6EL with PID 2548 (started by 繁星 in E:\学习笔记\项目\星城货运（springboot项目）\源码\traffic-master\traffic-system)
+2022-06-15 17:43:25.778 [main] INFO  com.msb.system.TrafficSystemApplicationTests - No active profile set, falling back to default profiles: default
+2022-06-15 17:43:26.155 [main] INFO  com.msb.system.TrafficSystemApplicationTests - Started TrafficSystemApplicationTests in 0.711 seconds (JVM running for 1.566)
+2022-06-15 17:43:26.305 [main] ERROR com.msb.system.TrafficSystemApplicationTests - test logger
+2022-06-15 17:56:09.811 [main] INFO  com.msb.system.TrafficSystemApplicationTests - Starting TrafficSystemApplicationTests on DESKTOP-847M6EL with PID 10436 (started by 繁星 in E:\学习笔记\项目\星城货运（springboot项目）\源码\traffic-master\traffic-system)
+2022-06-15 17:56:09.811 [main] INFO  com.msb.system.TrafficSystemApplicationTests - No active profile set, falling back to default profiles: default
+2022-06-15 17:56:10.170 [main] INFO  com.msb.system.TrafficSystemApplicationTests - Started TrafficSystemApplicationTests in 0.671 seconds (JVM running for 1.871)
+2022-06-15 17:56:10.311 [main] ERROR com.msb.system.TrafficSystemApplicationTests - test logger
+2022-06-15 17:56:35.686 [main] INFO  com.msb.system.TrafficSystemApplicationTests - Starting TrafficSystemApplicationTests on DESKTOP-847M6EL with PID 11768 (started by 繁星 in E:\学习笔记\项目\星城货运（springboot项目）\源码\traffic-master\traffic-system)
+2022-06-15 17:56:35.686 [main] INFO  com.msb.system.TrafficSystemApplicationTests - No active profile set, falling back to default profiles: default
+2022-06-15 17:56:36.045 [main] INFO  com.msb.system.TrafficSystemApplicationTests - Started TrafficSystemApplicationTests in 0.691 seconds (JVM running for 1.651)
+2022-06-15 17:56:36.170 [main] ERROR com.msb.system.TrafficSystemApplicationTests - test logger
+2022-06-15 17:57:08.725 [main] INFO  com.msb.system.TrafficSystemApplicationTests - Starting TrafficSystemApplicationTests on DESKTOP-847M6EL with PID 7316 (started by 繁星 in E:\学习笔记\项目\星城货运（springboot项目）\源码\traffic-master\traffic-system)
+2022-06-15 17:57:08.740 [main] INFO  com.msb.system.TrafficSystemApplicationTests - No active profile set, falling back to default profiles: default
+2022-06-15 17:57:09.086 [main] INFO  com.msb.system.TrafficSystemApplicationTests - Started TrafficSystemApplicationTests in 0.683 seconds (JVM running for 1.652)
+2022-06-15 17:57:09.195 [main] ERROR com.msb.system.TrafficSystemApplicationTests - test logger
+2022-06-15 17:57:20.777 [main] INFO  com.msb.system.TrafficSystemApplicationTests - Starting TrafficSystemApplicationTests on DESKTOP-847M6EL with PID 7796 (started by 繁星 in E:\学习笔记\项目\星城货运（springboot项目）\源码\traffic-master\traffic-system)
+2022-06-15 17:57:20.777 [main] INFO  com.msb.system.TrafficSystemApplicationTests - No active profile set, falling back to default profiles: default
+2022-06-15 17:57:21.214 [main] INFO  com.msb.system.TrafficSystemApplicationTests - Started TrafficSystemApplicationTests in 0.744 seconds (JVM running for 1.661)
+2022-06-15 17:57:21.386 [main] ERROR com.msb.system.TrafficSystemApplicationTests - test logger
+2022-06-15 17:58:49.357 [main] INFO  com.msb.system.TrafficSystemApplicationTests - Starting TrafficSystemApplicationTests on DESKTOP-847M6EL with PID 12060 (started by 繁星 in E:\学习笔记\项目\星城货运（springboot项目）\源码\traffic-master\traffic-system)
+2022-06-15 17:58:49.357 [main] INFO  com.msb.system.TrafficSystemApplicationTests - No active profile set, falling back to default profiles: default
+2022-06-15 17:58:49.711 [main] INFO  com.msb.system.TrafficSystemApplicationTests - Started TrafficSystemApplicationTests in 0.764 seconds (JVM running for 1.686)
+2022-06-15 17:58:49.836 [main] ERROR com.msb.system.TrafficSystemApplicationTests - test logger
+2022-06-15 18:00:04.869 [main] INFO  com.msb.system.TrafficSystemApplicationTests - Starting TrafficSystemApplicationTests on DESKTOP-847M6EL with PID 11368 (started by 繁星 in E:\学习笔记\项目\星城货运（springboot项目）\源码\traffic-master\traffic-system)
+2022-06-15 18:00:04.869 [main] INFO  com.msb.system.TrafficSystemApplicationTests - No active profile set, falling back to default profiles: default
+2022-06-15 18:00:05.197 [main] INFO  com.msb.system.TrafficSystemApplicationTests - Started TrafficSystemApplicationTests in 0.634 seconds (JVM running for 1.538)
+2022-06-15 18:00:05.322 [main] ERROR com.msb.system.TrafficSystemApplicationTests - test logger
+2022-06-15 18:00:24.942 [main] INFO  com.msb.system.TrafficSystemApplicationTests - Starting TrafficSystemApplicationTests on DESKTOP-847M6EL with PID 1992 (started by 繁星 in E:\学习笔记\项目\星城货运（springboot项目）\源码\traffic-master\traffic-system)
+2022-06-15 18:00:24.958 [main] INFO  com.msb.system.TrafficSystemApplicationTests - No active profile set, falling back to default profiles: default
+2022-06-15 18:00:25.301 [main] INFO  com.msb.system.TrafficSystemApplicationTests - Started TrafficSystemApplicationTests in 0.647 seconds (JVM running for 1.583)
+2022-06-15 18:00:25.411 [main] ERROR com.msb.system.TrafficSystemApplicationTests - test logger
