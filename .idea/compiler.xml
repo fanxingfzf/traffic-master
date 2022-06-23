@@ -6,27 +6,27 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="traffic-system" />
         <module name="traffic-search" />
         <module name="traffic-api-execption" />
         <module name="traffic-api-resultCode" />
+        <module name="traffic-induce" />
         <module name="traffic-storage" />
         <module name="traffic-api-entity" />
         <module name="traffic-transport" />
         <module name="traffic-carry" />
         <module name="traffic-pack" />
         <module name="traffic-master" />
+        <module name="traffic-api-interface" />
         <module name="traffic-mq" />
-        <module name="traffic-web" />
         <module name="traffic-finance" />
         <module name="traffic-delivery" />
         <module name="traffic-api-commons" />
         <module name="traffic-utils" />
-        <module name="traffic-customer" />
-        <module name="traffic-cache" />
         <module name="traffic-declare" />
-        <module name="traffic-induce" />
-        <module name="traffic-api-interface" />
+        <module name="traffic-cache" />
+        <module name="traffic-system" />
+        <module name="traffic-customer" />
+        <module name="traffic-web" />
       </profile>
     </annotationProcessing>
   </component>
